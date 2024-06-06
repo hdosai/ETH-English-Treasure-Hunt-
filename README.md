@@ -7,6 +7,12 @@ Features:
 -Vocabulary base: Players may encounter new words and get the idea on how to use then in a sentence.
 
 Installation:
+1.Clone the repository to your local machine github:git clone https://github.com/hdosai/English-Treasure-Hunt.git
+2.Click the geen "Code" button.
+3.Download Winrar.zip file.
+4.Extract the files and navigate to the "ETH" and "Capstone" folders.
+5.Open"Capstone" file with google chrome logo to play English Treasure Hunt.
+
 
 Usage:
 1.Click "Play now" button to read the game instruction.
